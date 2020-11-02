@@ -135,7 +135,7 @@ navbar-img: "/assets/img/targets.jpg"
 #gtm: ""
 
 # Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
+# Uncomment the following section to fenable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 #matomo:
 #  site_id: "9"
