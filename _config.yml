@@ -14,13 +14,14 @@ author: Billy Edwards
 # --- List of links in the navigation bar --- #
 
 navbar-links:
- #About Me: "aboutme"
+  Projects: "projects"
+  Publications: "publications"
  #Resources:
  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
  #  - Learn markdown: "https://www.markdowntutorial.com/"
   Twinkle: "https://www.twinkle-spacemission.co.uk"
   Ariel: "https://arielmission.space"
-ExoClock: "https://www.exoclock.space"
+  ExoClock: "https://www.exoclock.space"
 
 # --- Logo --- #
 
